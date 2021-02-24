@@ -1,5 +1,5 @@
 ## Tab Tang 
-I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future. Seeking a challenging opportunity where I can utilize my skills to build fantastic applications relevant to these areas and gain further experience in state-of-the-art technology.
+I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development. Even though it seems slightly spread out, I trust that all the dots will somehow connect in my future. Seeking a challenging opportunity where I can utilize my skills to build fantastic applications relevant to these areas and gain further experience in state-of-the-art technology.
 
 <!--________________________________________________________________________________________________________________________________________-->
 
