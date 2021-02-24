@@ -1,4 +1,4 @@
-# Welcome 
+## Welcome 
 I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future.
 
 <!--________________________________________________________________________________________________________________________________________-->
@@ -6,8 +6,8 @@ I am a software engineer with 6 years of experience in many fields, including iO
 <br /> 
 <br /> 
 
-# Highlight Projects
-## [MIDI Piano](https://github.com/objectc/MIDIPiano) [individual project]
+## Highlight Projects
+### [MIDI Piano](https://github.com/objectc/MIDIPiano) [individual project]
 An electronic musical instruments App in iOS. Features include MIDI notes playing with velocity control, metronome, mixer, recording, Bluetooth device controller connecting, and a piano style UI with multi-touch gestures.
 
 * **Built With** iOS AVFoundation, AVAudioEngine and UIKit.
@@ -21,7 +21,7 @@ An electronic musical instruments App in iOS. Features include MIDI notes playin
 <br /> 
 
 
-## Super Smash Heroes [team project]
+### Super Smash Heroes [team project]
 A mobile strategy game contains heroes from the imperial era of China. I was responsible for designing and implementing the main UI framework and battle logic, optimizing the game engine batch node rendering strategy to improve the performance.
 
 * **Built With** Cocos2D
@@ -36,7 +36,7 @@ A mobile strategy game contains heroes from the imperial era of China. I was res
 
 <br /> 
 
-## [VR Photo Viewer](https://github.com/objectc/VRPhotoViewer) [individual project]
+### [VR Photo Viewer](https://github.com/objectc/VRPhotoViewer) [individual project]
 A mobile app that can display panorama images in 3D 360 virtual reality with Google Cardboard which comes from my interest in VR.
 
 * **Built With** Unity Engine, Google Cardboard SDK
@@ -50,7 +50,7 @@ A mobile app that can display panorama images in 3D 360 virtual reality with Goo
 
 <br /> 
 
-## [Smart Remote with Voice Control](https://github.com/objectc/smart_remote) [individual project]
+### [Smart Remote with Voice Control](https://github.com/objectc/smart_remote) [individual project]
 Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with voice control.
 * **Built With** Flask-Ask, LIRC
 * **Languages Used**: Python
@@ -63,7 +63,7 @@ Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with vo
 
 <br /> 
 
-## ​iMOST Complete Blood Count Solution [team project]
+### ​iMOST Complete Blood Count Solution [team project]
 A mobile solution to accurately measure a patient’s red blood cell, white blood cell in less than 60 seconds, using a single drop of blood.
 I am responsible for prototyping object detection models, optimizing image acquisition, making use of accelerators to speed up the computation with GPUs in both mobile devices and servers, as well as building and maintaining the data services in the cloud.
 * **Built With** TensorFlow, OpenCV, TensorRT, Django, RabbitMQ, AWS
@@ -78,7 +78,7 @@ I am responsible for prototyping object detection models, optimizing image acqui
 <br /> 
 <br /> 
 
-# Others
+## Others
 * [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
 * A photo and video-sharing social App, I was responsible for the implementation of UI, picture taking features (Based on AVFoundation), and third-party SDK integration.
 * A worker hiring platform in iOS, a freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
