@@ -2,4 +2,4 @@ plugins:
   - "jekyll-github-metadata"
 theme: jekyll-theme-slate
 name: Tab's Portfolio
-title: False
+# title: False
