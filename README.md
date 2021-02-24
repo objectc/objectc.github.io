@@ -4,11 +4,10 @@ I am a software engineer with 6 years of experience in many fields, including iO
 <!--________________________________________________________________________________________________________________________________________-->
 
 <br /> 
-<br /> 
 
 ## Highlight Projects
 
-### Super Smash Heroes [team project]
+### [Super Smash Heroes](http://cy.playcrab.com/index.html) [team project]
 A mobile strategy game contains heroes from the imperial era of China. I was responsible for designing and implementing the main UI framework and battle logic, optimizing the game engine batch node rendering strategy to improve the performance.
 
 * **Built With** Cocos2D
@@ -75,7 +74,6 @@ A mobile app that can display panorama images in 3D 360 virtual reality with Goo
 {% include imgPlayer.html id="./img/stereocam.jpg" %}
 <!--________________________________________________________________________________________________________________________________________-->
 
-<br /> 
 <br /> 
 
 ## Other Projects
