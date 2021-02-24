@@ -1,6 +1,3 @@
----
-title-heading: false
----
 # Welcome 
 I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future.
 
