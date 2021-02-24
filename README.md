@@ -79,7 +79,10 @@ I am responsible for prototyping object detection models, optimizing image acqui
 <br /> 
 
 # Others
-* [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China I participated in the development.
-* A worker hiring platform in iOS, which is an independent freelancing project.
-* Real-Time Stereo App, using Kinect’s IR camera and RGB camera to build a real-time 3D scanner and display it via WebGL.
-* DeepFM, a TensorFlow and Keras implementation of a CTR/Recommendation machine learning algorithm, which proposed in the paper [DeepFM: a Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247).
+* [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
+* A photo and video-sharing social App, I was responsible for the implementation of UI, picture taking features (Based on AVFoundation), and third-party SDK integration.
+* A worker hiring platform in iOS, an independent freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
+* Real-Time 3D Scanner, using Kinect’s IR camera and RGB camera to build a real-time 3D scanner and display the point cloud data via WebGL.
+* DeepFM, a TensorFlow implementation of a CTR/Recommendation machine learning algorithm, which proposed in the paper [DeepFM: a Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247).
+* An in-app updating project, which can download, unpack and load scripts/resources while the App is running, allowing the user to finish the update without exiting the App.
+* An annotation and visualization tool for 2D and 3D vision data to generate labeled data to feed the ML projects. Created with React, Redux, Flask, WebGL. Applied image processing and segmentation algorithms with OpenCV Library.
