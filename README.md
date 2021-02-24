@@ -7,7 +7,7 @@ I am a software engineer with 6 years of experience in many fields, including iO
 <br /> 
 
 # Highlight Projects
-## MIDI Piano [individual project]
+## [MIDI Piano](https://github.com/objectc/MIDIPiano) [individual project]
 An electronic musical instruments App in iOS. Features include MIDI notes playing with velocity control, metronome, mixer, recording, Bluetooth device controller connecting, and a piano style UI with multi-touch gestures.
 
 * **Built With** iOS AVFoundation, AVAudioEngine and UIKit.
@@ -36,7 +36,7 @@ A mobile strategy game contains heroes from the imperial era of China. I was res
 
 <br /> 
 
-## VR Photo Viewer [individual project]
+## [VR Photo Viewer](https://github.com/objectc/VRPhotoViewer) [individual project]
 A mobile app that can display panorama images in 3D 360 virtual reality with Google Cardboard which comes from my interest in VR.
 
 * **Built With** Unity Engine, Google Cardboard SDK
@@ -50,7 +50,7 @@ A mobile app that can display panorama images in 3D 360 virtual reality with Goo
 
 <br /> 
 
-## Smart Remote with Voice Control [individual project]
+## [Smart Remote with Voice Control](https://github.com/objectc/smart_remote) [individual project]
 Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with voice control.
 * **Built With** Flask-Ask, LIRC
 * **Languages Used**: Python
