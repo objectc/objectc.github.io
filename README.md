@@ -1,5 +1,4 @@
-## Welcome
-# 
+## Welcome 
 I am a software engineer with 6 years of experience in many fields, including iOS applications, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future.
 
 ________________________________________________________________________________________________________________________________________
@@ -16,7 +15,7 @@ An electronic musical instruments iOS App. Features include MIDI notes playing w
 <!--________________________________________________________________________________________________________________________________________-->
 
 ### Video
-{% include youtubePlayer.html id="7XquTLrX8Ec" %}
+{% include youtubePlayer.html id="9ptAevj1auY" %}
 ________________________________________________________________________________________________________________________________________
 
 
@@ -31,7 +30,7 @@ A mobile strategy game contains heroes from the imperial era of China. I was res
 <!--________________________________________________________________________________________________________________________________________-->
 
 ### Video
-{% include youtubePlayer.html id="FISArggPaG4" %}
+{% include youtubePlayer.html id="7abvanQqdO0" %}
 ________________________________________________________________________________________________________________________________________
 
 
@@ -56,10 +55,10 @@ Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with vo
 * **Built With** Flask-Ask, and LIRC
 * **Languages Used**: Python
 
-________________________________________________________________________________________________________________________________________
+<!--________________________________________________________________________________________________________________________________________-->
 
 ### Video
-{% include youtubePlayer.html id="1KUXkIcJ_AQ" %}
+{% include youtubePlayer.html id="TKRvqR-jYNs" %}
 ________________________________________________________________________________________________________________________________________
 
 
@@ -73,7 +72,7 @@ I am responsible for prototyping object detection models, optimizing image acqui
 <!--________________________________________________________________________________________________________________________________________-->
 
 ### Video
-{% include youtubePlayer.html id="SCaHnTQGWBw" %}
+{% include videoPlayer.html id="https://essenlix-video.s3.amazonaws.com/CBC_Medium_Aug1st.mp4" %}
 ________________________________________________________________________________________________________________________________________
 
 
