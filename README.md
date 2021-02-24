@@ -36,7 +36,7 @@ An electronic musical instruments App in iOS. Features include MIDI notes playin
 
 <br /> 
 
-### ​iMOST Complete Blood Count Solution [team project]
+### ​[iMOST Complete Blood Count Solution](http://essenlix.com/products.php) [team project]
 A mobile solution to accurately measure a patient’s red blood cell, white blood cell in less than 60 seconds, using a single drop of blood.
 I am responsible for prototyping object detection models, optimizing image acquisition, making use of accelerators to speed up the computation with GPUs in both mobile devices and servers, as well as building and maintaining the data services in the cloud.
 * **Built With** TensorFlow, OpenCV, TensorRT, Django, RabbitMQ, AWS
