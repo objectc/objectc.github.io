@@ -77,7 +77,7 @@ A mobile app that can display panorama images in 3D 360 virtual reality with Goo
 <br /> 
 
 ## Other Projects
-* [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
+* [The Kung Fu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
 * A photo and video-sharing social App, I was responsible for the implementation of UI, camera features (Based on AVFoundation), and third-party SDK integration.
 * A worker hiring platform in iOS, a freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
 * Real-Time 3D Scanner, using Kinect’s IR camera and RGB camera to build a real-time 3D scanner and display the point cloud data via WebGL.
