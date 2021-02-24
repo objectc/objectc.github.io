@@ -7,8 +7,8 @@ I am a software engineer with 6 years of experience in many fields, including iO
 <br /> 
 
 # Highlight Projects
-## MIDI Piano
-An electronic musical instruments iOS App. Features include MIDI notes playing with velocity control, metronome, mixer, recording, Bluetooth device controller connecting, and a piano style UI with multi-touch gestures.
+## MIDI Piano [individual project]
+An electronic musical instruments App in iOS. Features include MIDI notes playing with velocity control, metronome, mixer, recording, Bluetooth device controller connecting, and a piano style UI with multi-touch gestures.
 
 * **Built With** iOS AVFoundation, AVAudioEngine and UIKit.
 * **Languages Used**: Objective-C 
@@ -21,11 +21,11 @@ An electronic musical instruments iOS App. Features include MIDI notes playing w
 <br /> 
 
 
-## Super Smash Heroes
-A mobile strategy game contains heroes from the imperial era of China. I was responsible for designing and implementing the main UI framework and battle logic, optimizing the game engine to improve the performance.
+## Super Smash Heroes [team project]
+A mobile strategy game contains heroes from the imperial era of China. I was responsible for designing and implementing the main UI framework and battle logic, optimizing the game engine batch node rendering strategy to improve the performance.
 
 * **Built With** Cocos2D
-* **Languages Used**: C++ and Lua
+* **Languages Used**: C++, Lua
 
 <!--________________________________________________________________________________________________________________________________________-->
 
@@ -36,10 +36,10 @@ A mobile strategy game contains heroes from the imperial era of China. I was res
 
 <br /> 
 
-## VR Photo Viewer
+## VR Photo Viewer [individual project]
 A mobile app that can display panorama images in 3D 360 virtual reality with Google Cardboard which comes from my interest in VR.
 
-* **Built With** Unity Engine and Google Cardboard SDK
+* **Built With** Unity Engine, Google Cardboard SDK
 * **Languages Used**: C#
 
 <!--________________________________________________________________________________________________________________________________________-->
@@ -50,9 +50,9 @@ A mobile app that can display panorama images in 3D 360 virtual reality with Goo
 
 <br /> 
 
-## Smart Remote with Voice Control
+## Smart Remote with Voice Control [individual project]
 Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with voice control.
-* **Built With** Flask-Ask, and LIRC
+* **Built With** Flask-Ask, LIRC
 * **Languages Used**: Python
 
 <!--________________________________________________________________________________________________________________________________________-->
@@ -63,7 +63,7 @@ Use Raspberry Pi, IR transmitter and Amazon Echo to build a smart remote with vo
 
 <br /> 
 
-## ​iMOST Complete Blood Count Solution
+## ​iMOST Complete Blood Count Solution [team project]
 A mobile solution to accurately measure a patient’s red blood cell, white blood cell in less than 60 seconds, using a single drop of blood.
 I am responsible for prototyping object detection models, optimizing image acquisition, making use of accelerators to speed up the computation with GPUs in both mobile devices and servers, as well as building and maintaining the data services in the cloud.
 * **Built With** TensorFlow, OpenCV, TensorRT, Django, RabbitMQ, AWS
@@ -81,7 +81,7 @@ I am responsible for prototyping object detection models, optimizing image acqui
 # Others
 * [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
 * A photo and video-sharing social App, I was responsible for the implementation of UI, picture taking features (Based on AVFoundation), and third-party SDK integration.
-* A worker hiring platform in iOS, an independent freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
+* A worker hiring platform in iOS, a freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
 * Real-Time 3D Scanner, using Kinect’s IR camera and RGB camera to build a real-time 3D scanner and display the point cloud data via WebGL.
 * DeepFM, a TensorFlow implementation of a CTR/Recommendation machine learning algorithm, which proposed in the paper [DeepFM: a Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247).
 * An in-app updating project, which can download, unpack and load scripts/resources while the App is running, allowing the user to finish the update without exiting the App.
