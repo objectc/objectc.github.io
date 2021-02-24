@@ -1,5 +1,5 @@
-## Welcome 
-I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future.
+## Tab Tang 
+I am a software engineer with 6 years of experience in many fields, including iOS Apps, mobile games, deep learning, and computer vision. My interests lie within VR/AR, AI, and game development, I trust that all the dots will somehow connect in my future. Seeking a challenging opportunity where I can utilize my skills to build fantastic applications relevant to these areas and gain further experience in state-of-the-art technology.
 
 <!--________________________________________________________________________________________________________________________________________-->
 
@@ -80,7 +80,7 @@ I am responsible for prototyping object detection models, optimizing image acqui
 
 ## Other Projects
 * [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
-* A photo and video-sharing social App, I was responsible for the implementation of UI, picture taking features (Based on AVFoundation), and third-party SDK integration.
+* A photo and video-sharing social App, I was responsible for the implementation of UI, camera features (Based on AVFoundation), and third-party SDK integration.
 * A worker hiring platform in iOS, a freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
 * Real-Time 3D Scanner, using Kinect’s IR camera and RGB camera to build a real-time 3D scanner and display the point cloud data via WebGL.
 * [DeepFM](https://github.com/objectc/DeepFM), a TensorFlow implementation of a CTR/Recommendation machine learning algorithm, which proposed in the paper [DeepFM: a Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247).
