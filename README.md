@@ -78,7 +78,7 @@ I am responsible for prototyping object detection models, optimizing image acqui
 <br /> 
 <br /> 
 
-## Others
+## Other Projects
 * [Kongfu Master](https://apps.apple.com/cn/app/da-zhang-men/id538640684), a top-selling game in China. I participated in the development of UI and gameplay.
 * A photo and video-sharing social App, I was responsible for the implementation of UI, picture taking features (Based on AVFoundation), and third-party SDK integration.
 * A worker hiring platform in iOS, a freelancing project. Using WKWebView to communicate between native Swift code and HTML/JS. 
